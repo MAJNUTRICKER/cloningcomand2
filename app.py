@@ -41,6 +41,18 @@ def admin():
                     keys.remove(k)
                 break
         write_keys(keys)
+        flash(f"Action '{action}' performed on {key_value}", "success")
+        return redirect(url_for('admin'))
+    return render_template('admin.html', keys=keys)
+
+if __name__ == '__main__':
+    app.run(debug=True, port=8080)            if k["key"] == key_value:
+                if action == "approve":
+                    k["status"] = "approved"
+                elif action == "remove":
+                    keys.remove(k)
+                break
+        write_keys(keys)
         flash(f"Action {action} performed on {key_value}", "success")
         return redirect(url_for('admin'))
     return render_template('admin.html', keys=keys)
