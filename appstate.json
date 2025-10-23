@@ -1,1 +1,128 @@
-yha kiwi browser se appstate nikalkr dalna Facebook ki us id ka jis se bot bnaoge
+[
+    {
+        "key": "datr",
+        "value": "I1z6aJiIC0YpRxtS0LAKEwis",
+        "domain": "facebook.com",
+        "path": "/",
+        "hostOnly": false,
+        "creation": "2025-10-23T16:50:15.266Z",
+        "lastAccessed": "2025-10-23T16:50:15.266Z"
+    },
+    {
+        "key": "sb",
+        "value": "I1z6aMHCYbnt2oAeAs8T-7bz",
+        "domain": "facebook.com",
+        "path": "/",
+        "hostOnly": false,
+        "creation": "2025-10-23T16:50:15.266Z",
+        "lastAccessed": "2025-10-23T16:50:15.266Z"
+    },
+    {
+        "key": "m_pixel_ratio",
+        "value": "1.381250023841858",
+        "domain": "facebook.com",
+        "path": "/",
+        "hostOnly": false,
+        "creation": "2025-10-23T16:50:15.266Z",
+        "lastAccessed": "2025-10-23T16:50:15.266Z"
+    },
+    {
+        "key": "wd",
+        "value": "522x1159",
+        "domain": "facebook.com",
+        "path": "/",
+        "hostOnly": false,
+        "creation": "2025-10-23T16:50:15.266Z",
+        "lastAccessed": "2025-10-23T16:50:15.266Z"
+    },
+    {
+        "key": "ps_l",
+        "value": "1",
+        "domain": "facebook.com",
+        "path": "/",
+        "hostOnly": false,
+        "creation": "2025-10-23T16:50:15.266Z",
+        "lastAccessed": "2025-10-23T16:50:15.266Z"
+    },
+    {
+        "key": "ps_n",
+        "value": "1",
+        "domain": "facebook.com",
+        "path": "/",
+        "hostOnly": false,
+        "creation": "2025-10-23T16:50:15.266Z",
+        "lastAccessed": "2025-10-23T16:50:15.266Z"
+    },
+    {
+        "key": "c_user",
+        "value": "61579348996795",
+        "domain": "facebook.com",
+        "path": "/",
+        "hostOnly": false,
+        "creation": "2025-10-23T16:50:15.266Z",
+        "lastAccessed": "2025-10-23T16:50:15.266Z"
+    },
+    {
+        "key": "xs",
+        "value": "33%3A7Vj2zFdi7iLiqw%3A2%3A1761238146%3A-1%3A-1",
+        "domain": "facebook.com",
+        "path": "/",
+        "hostOnly": false,
+        "creation": "2025-10-23T16:50:15.266Z",
+        "lastAccessed": "2025-10-23T16:50:15.266Z"
+    },
+    {
+        "key": "fr",
+        "value": "0pF6IccR9uEl7OqkJ.AWcB3BG0pM5fOSd8E0HlVjwG95jHNaDfrDc_e9KZ9gQmhJYkcFM.Bo-lwj..AAA.0.0.Bo-lyK.AWd3qsMdRXCBQV6dLPu3DQGATTg",
+        "domain": "facebook.com",
+        "path": "/",
+        "hostOnly": false,
+        "creation": "2025-10-23T16:50:15.266Z",
+        "lastAccessed": "2025-10-23T16:50:15.266Z"
+    },
+    {
+        "key": "locale",
+        "value": "en_GB",
+        "domain": "facebook.com",
+        "path": "/",
+        "hostOnly": false,
+        "creation": "2025-10-23T16:50:15.266Z",
+        "lastAccessed": "2025-10-23T16:50:15.266Z"
+    },
+    {
+        "key": "pas",
+        "value": "61579348996795%3A6xxLZN63XT",
+        "domain": "facebook.com",
+        "path": "/",
+        "hostOnly": false,
+        "creation": "2025-10-23T16:50:15.266Z",
+        "lastAccessed": "2025-10-23T16:50:15.266Z"
+    },
+    {
+        "key": "wl_cbv",
+        "value": "v2%3Bclient_version%3A2964%3Btimestamp%3A1761238154",
+        "domain": "facebook.com",
+        "path": "/",
+        "hostOnly": false,
+        "creation": "2025-10-23T16:50:15.266Z",
+        "lastAccessed": "2025-10-23T16:50:15.266Z"
+    },
+    {
+        "key": "fbl_st",
+        "value": "100734751%3BT%3A29353969",
+        "domain": "facebook.com",
+        "path": "/",
+        "hostOnly": false,
+        "creation": "2025-10-23T16:50:15.266Z",
+        "lastAccessed": "2025-10-23T16:50:15.266Z"
+    },
+    {
+        "key": "vpd",
+        "value": "v1%3B1007x522x1.381250023841858",
+        "domain": "facebook.com",
+        "path": "/",
+        "hostOnly": false,
+        "creation": "2025-10-23T16:50:15.266Z",
+        "lastAccessed": "2025-10-23T16:50:15.266Z"
+    }
+      ]
